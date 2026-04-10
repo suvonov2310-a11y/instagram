@@ -6,7 +6,7 @@ from aiogram.filters import Command
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # --- KONFIGURATSIYA ---
-API_TOKEN = '8417425492:AAFIh5XXlFrERRChL_fPINkFioX9lx7YpbU'
+API_TOKEN = '8138702016:AAExTlz1XjEgY-WaU_uPI-kVAjg35f3IP9k'
 RAPID_API_KEY = 'fcc987c584mshae4be304af226dfp1d1c35jsn483d541ee632'
 RAPID_HOST = 'instagram-reels-downloader-api.p.rapidapi.com'
 
